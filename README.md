@@ -1,4 +1,4 @@
-# Gerador-de-Senhas
+# Gerador-de-Senha
 Um gerador de senhas com filtro para quantidade de caracteres, caracteres especiais, caracteres em caixa alta e caracteres em caixa baixa.
 
 
